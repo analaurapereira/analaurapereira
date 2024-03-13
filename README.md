@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/analaurapereira">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=analaurapereira&theme=react&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analaurapereira&show_icons=true&theme=react&layout=compact" />
+  
 </div>
 
 <div style="display: inline_block"><br>
