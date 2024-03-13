@@ -6,7 +6,7 @@
 <div>
   <a href="https://github.com/analaurapereira">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=analaurapereira&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=&show_icons=true&theme=radical&layout=compact" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=analaurapereira&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 <div style="display: inline_block"><br>
