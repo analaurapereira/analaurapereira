@@ -3,7 +3,7 @@
 - 🔭 Estou procurando estágio na área de TI
 - 🌱 Estudando atualmente banco de dados, Java POO e Python
 
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=analaurapereira&theme=react&size=0)
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=analaurapereira&theme=react&size=0)
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=analaurapereira&layout=compact&theme=react&size=1000)
 
 <div style="display: inline_block"><br>
