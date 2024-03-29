@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Ana Laura
 
-- 🔭 Estou procurando estágio na área de TI
 - 🌱 Estudando atualmente banco de dados, Java POO e Python
 
   ![](https://github-readme-streak-stats.herokuapp.com/?user=analaurapereira&theme=react&size=0)
