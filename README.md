@@ -19,4 +19,4 @@
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](https://analaurapereira.com/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-silva-pereira-02b91a199/)
-[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alspereira99@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:alspereira99@gmail.com)
