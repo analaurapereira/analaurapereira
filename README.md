@@ -11,11 +11,10 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ana-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
 </div>
 
 ##
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](https://analaurapereira.com/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](https://portifolio-analaurapereiras-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-laura-silva-pereira-02b91a199/)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red)](mailto:alspereira99@gmail.com)
